@@ -75,7 +75,7 @@ done
 ## Otorgar permisos
 Estando en la ruta de la carpeta en donde creamos los scripts, ejecutamos el siguiente comando:
 ```bash
-chmod +x script.sh
+chmod +x user1.sh user2.sh
 ```
 
 ## Ejecutar scripts
